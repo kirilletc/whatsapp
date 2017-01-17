@@ -1,0 +1,16 @@
+[05-May-2016 17:24:40 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[05-May-2016 20:46:38 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[05-May-2016 20:50:46 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[05-May-2016 21:07:20 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[05-May-2016 21:16:09 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[05-May-2016 21:20:17 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[05-May-2016 21:32:35 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[06-May-2016 06:50:11 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[06-May-2016 06:50:55 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[06-May-2016 06:52:36 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[06-May-2016 06:57:37 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 199
+[27-May-2016 01:20:19 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 11
+[27-May-2016 01:20:44 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 11
+[27-May-2016 01:21:09 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 11
+[27-May-2016 01:24:46 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 11
+[27-May-2016 01:41:11 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/awtwczbi/public_html/xn--80aaaag5cg4ajheag7k.xn--p1ai/feedback/index.php on line 11
